@@ -20,7 +20,7 @@ top:
 
 # Configuration for "Last updated" date and time.
 # Uncomment the following line to show.
-last_updated: false
+last_updated: true
 
 # Configuration for which links show at the top of the footer.
 # this is a key into _data/navigation.yml
@@ -32,7 +32,7 @@ links: footer
 big_footer_signup_form: false
 
 # Configuration for footer heading. (optional)
-heading: Name of agency
+heading: Anytown, USA
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
