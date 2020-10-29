@@ -11,10 +11,40 @@
 # primary:
 #   links: primary
 #
+# Homepage
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  - text: Residents
+    links:
+      - text: About Anytown
+        href: /residents/about/
+      - text: COVID-19 Information
+        href: /residents/covid-19-information/
+      - text: Customer Service
+        href: /residents/customer-service/
+      - text: Neighborhoods
+        href: /residents/neighborhoods/
+      - text: Newsroom
+        href: /residents/newsroom/
+        links:
+          - text: Event Calendar
+            href: /residents/calendar/
+          - text: Watch Local TV
+            href: /residents/watch-online/
+      - text: Parks and Recreation
+        href: /residents/parks/
+      - text: Fire-Medical
+        href: /departments/fire/
+      - text: Police Department
+        href: /departments/police/
+      - text: Public Meetings
+        href: /departments/city-clerk/
+      - text: Trash and Recycling
+        href: /departments/public-works/solid-waste/
+      - text: Transportation
+        href: /departments/public-works/transit/
+      - text: Volunteer
+        href: /residents/volunteer/
+  - text: Business
     links:
       - text: Demo link A
         href: /two/a/
@@ -28,18 +58,47 @@ primary:
         href: /two/b/
       - text: Demo link F
         href: /two/c/
-  - text: Referenced section
+  - text: Government
+    links:
+      - text: Demo link A
+        href: /two/a/
+      - text: Demo link B
+        href: /two/b/
+      - text: Demo link C
+        href: /two/c/
+      - text: Demo link D
+        href: /two/a/
+      - text: Demo link E
+        href: /two/b/
+      - text: Demo link F
+        href: /two/c/
+  - text: Departments
+    links:
+      - text: Demo link A
+        href: /two/a/
+      - text: Demo link B
+        href: /two/b/
+      - text: Demo link C
+        href: /two/c/
+      - text: Demo link D
+        href: /two/a/
+      - text: Demo link E
+        href: /two/b/
+      - text: Demo link F
+        href: /two/c/
+  - text: Request Service
     links: footer
   - text: External link
     href: https://18f.gsa.gov
     external: true
 
 secondary:
-  - text: Documentation
-    href: /docs/
-  - text: Theme
-    href: /theme/
+  - text: Directory
+    href: /directory/
+  - text: Contact Us
+    href: /contact/
 
+# Documentation page
 docs:
   - text: Sidenav Documentation
     href: /docs/
