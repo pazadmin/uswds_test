@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /docs/assets/uswds/img/hero.png
+  image: assets/uswds/img/hero.png
   callout:
     alt: "Hero callout:"
     text: Bring attention to a current priority
