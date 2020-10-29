@@ -4,10 +4,10 @@
 // It should only be modified by an advanced user.
 
 // import project theme settings
-@import '_sass/_uswds-theme-settings';
+@import 'uswds-theme-settings';
 
 // import theme override settings
-@import '_sass/_uswds-theme-override-settings';
+@import 'uswds-theme-override-settings';
 
 // Setting site width
 {% if site.site_width %}
@@ -16,7 +16,7 @@
 {% endif %}
 
 // import uswds
-@import '_sass/_uswds-theme-packages';
+@import 'uswds-theme-packages';
 
 // set jekyll overrides
 // Nav buttons
