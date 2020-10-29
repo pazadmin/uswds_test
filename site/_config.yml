@@ -1,5 +1,6 @@
-title: This is the site title
-description: This is the site description.
+title: USWDS Test Site
+description: This is the site description yayaya.
+baseurl: "uswds_test"
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
