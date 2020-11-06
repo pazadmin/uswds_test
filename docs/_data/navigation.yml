@@ -24,7 +24,6 @@ primary:
       - text: Neighborhoods
         href: /residents/neighborhoods/
       - text: Newsroom
-        href: /residents/newsroom/
         links:
           - text: Event Calendar
             href: /residents/calendar/
@@ -46,27 +45,35 @@ primary:
         href: /residents/volunteer/
   - text: Business
     links:
-      - text: Demo link A
+      - text: Auction of City Property
         href: /two/a/
-      - text: Demo link B
+      - text: Bids and RFPs
         href: /two/b/
-      - text: Demo link C
+      - text: City Infrastructure
         href: /two/c/
-      - text: Demo link D
+      - text: Development Services
         href: /two/a/
-      - text: Demo link E
+      - text: Economic Development
         href: /two/b/
-      - text: Demo link F
+      - text: GeoSpatial Hub
+        href: /two/c/
+      - text: Maps
+        href: /two/c/
+      - text: Master Plans
+        href: /two/c/
+      - text: Sales Tax and Licensing
+        href: /two/c/
+      - text: Small Business Task Force
         href: /two/c/
   - text: Government
     links:
-      - text: Demo link A
+      - text: ADA Statement
         href: /two/a/
-      - text: Demo link B
+      - text: City Charter
         href: /two/b/
-      - text: Demo link C
+      - text: City Code
         href: /two/c/
-      - text: Demo link D
+      - text: Mayor and Council
         href: /two/a/
       - text: Demo link E
         href: /two/b/
@@ -74,17 +81,41 @@ primary:
         href: /two/c/
   - text: Departments
     links:
-      - text: Demo link A
+      - text: City Attorney
         href: /two/a/
-      - text: Demo link B
+      - text: City Clerk
         href: /two/b/
-      - text: Demo link C
+      - text: City Court
         href: /two/c/
-      - text: Demo link D
+      - text: City Manager
         href: /two/a/
-      - text: Demo link E
+      - text: Development and Engineering
         href: /two/b/
-      - text: Demo link F
+      - text: Economic Development
+        href: /two/c/
+      - text: Finance and Budget
+        href: /two/c/
+      - text: Fire-Medical
+        href: /two/c/
+      - text: Human Resources
+        href: /two/c/
+      - text: Intergovernmental Affairs
+        href: /two/c/
+      - text: Neighborhood and Human Services
+        href: /two/c/
+      - text: Office of Communications
+        href: /two/c/
+      - text: Parks, Recreation, and Community Facilities
+        href: /two/c/
+      - text: Planning and Zoning
+        href: /two/c/
+      - text: Police
+        href: /two/c/
+      - text: Public Works
+        href: /two/c/
+      - text: Real Estate Development
+        href: /two/c/
+      - text: Water Services
         href: /two/c/
   - text: Request Service
     links: footer
